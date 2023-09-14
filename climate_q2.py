@@ -9,7 +9,7 @@ temp = []
 
 yData = database["Year"]
 cData = database["CO2"]
-tData= database["Temperature"]
+tData = database["Temperature"]
 
 for x in yData:
     years.append(x)
